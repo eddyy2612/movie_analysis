@@ -41,15 +41,6 @@ The approach follows a structured data analysis pipeline:
 5. **Statistical Analysis** - Compute correlation coefficients to identify meaningful relationships.
 6. **Visualization** - Utilize heatmaps and scatter plots to illustrate findings.
 
-## How to Run the Project
-1. Install required dependencies using:
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-2. Run the Jupyter Notebook or Python script containing the analysis.
-3. Modify the dataset path if necessary to match your local setup.
-4. Observe the correlation results and visualizations.
-
 ## Conclusion
-This project provides insights into how different factors impact a movie's financial performance. By analyzing correlations, we can better understand which attributes contribute to box office success.
+This project provides insights into how different factors impact a movie's financial performance. By analyzing correlations, we can better understand which attributes contribute to box office success. for more info contact @eddyy2612
 
